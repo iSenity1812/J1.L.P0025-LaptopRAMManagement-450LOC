@@ -1,6 +1,6 @@
-/*
- * TODO: FIX DATE SAVING
- * 
+/**
+ *
+ * @author isepipi
  */
 
 package management;
